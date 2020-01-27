@@ -1,0 +1,15 @@
+ name: BasicFlight
+ version: 1.1
+ description: Allows players to fly
+ author: StarFluxGames
+ authors: [StarFluxGames] 
+ website: http://starfluxgames.com/
+ 
+ main: com.starfluxgames.basicflight.Main
+ 
+ commands:
+   flight:
+     description: Allows player flight
+     aliases: fly
+   bfreload:
+     description: Reloads BasicFlight Config
